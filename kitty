@@ -7,7 +7,6 @@
 	<title>Portfolio</title>
 </head>
 <body>
-<p=" font: italic bold 1.5em/1em Georgia, serif ; color: green;">
-여기는 폰트 속성을 한꺼번에 주고 색상을 녹색으로 주었다</p>
+  <p style="color:#000000">The color of this text is: <b>TINY OFFICE</b>.</p>
 </body>
 </html>
